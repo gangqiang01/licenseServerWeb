@@ -119,8 +119,9 @@
         }
     }
     .el-form-item{
-        margin-bottom: 8px;
+        margin-bottom: 11px;
     }
+
     
 </style>
 <script>
